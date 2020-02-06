@@ -9,7 +9,7 @@
   calm_basics/basics
   calm_enable/calm_enable
   calm_governance/calm_governance
-  calm_singlevm_blueprint/calm_singlevm_blueprint
+  calm_iaas/calm_iaas
   calm_linux/calm_linux
   calm_win/calm_win
   calm_day2/calm_day2
