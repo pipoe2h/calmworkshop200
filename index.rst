@@ -10,11 +10,13 @@
   calm_enable/calm_enable
   calm_governance/calm_governance
   calm_iaas/calm_iaas
+  calm_selfservice/calm_selfservice
+  calm_paas/calm_paas
   calm_linux/calm_linux
   calm_win/calm_win
   calm_day2/calm_day2
   calm_escript/calm_escript
-  calm_marketplace/calm_marketplace
+
 
 .. toctree::
   :maxdepth: 2

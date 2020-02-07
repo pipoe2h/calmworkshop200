@@ -98,8 +98,6 @@ Let's create the two variables we need.
 
 #. Click **+ Add Variable**
 
-
-
 #. Add the following variables (**Runtime** is specified by toggling the **Running Man** icon to Blue):
 
    +-----------------------------------------------------------------------------------+------------------------------------------+
@@ -107,9 +105,9 @@ Let's create the two variables we need.
    +------------------------+-------------------------------+------------+-------------+----------------+--------------+----------+
    | **Variable Name**      | **Data Type** | **Value**     | **Secret** | **Runtime** | **Input Type** | **Value(s)** | **Mark** |
    +------------------------+-------------------------------+------------+-------------+----------------+--------------+----------+
-   | DATACENTERS            | String        |               |            |             |   Predefined   |   LHR, MAD   |Mandatory |
+   | DATACENTERS            | String        |               |            |     X       |   Predefined   |   LHR, MAD   |Mandatory |
    +------------------------+-------------------------------+------------+-------------+----------------+--------------+----------+
-   | PASSWORD               | String        |  nutanix/4u   |     X      |             |     Simple     |              |Mandatory |
+   | PASSWORD               | String        |  nutanix/4u   |     X      |     X       |     Simple     |              |Mandatory |
    +------------------------+-------------------------------+------------+-------------+----------------+--------------+----------+
 
    .. figure:: images/calm_iaas_07.png
