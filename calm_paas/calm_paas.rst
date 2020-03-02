@@ -229,6 +229,23 @@ Adding automation tasks
 
 #. Click **Save**
 
+Our first blueprint is ready to be launched. You can observe that if Showback has been enabled (Calm Settings -> Showback) the cost of a VM with the default resources is shown under *Launch*.
+
+#. Click **Launch** at the top of the page.
+
+#. Fill out the following fields:
+
+   .. note::
+      A single Blueprint can be launched multiple times within the same environment but each instance requires a unique **Application Name** in Calm.
+
+   - **Name of the Application** - *initials*-PaaSWebServer-1
+   - **DATACENTERS** - *your_choice*
+   - **PHP_CODE** - Leave the default PHP code
+
+#. Click **Create**
+
+   You will be taken directly to the **Applications** page to monitor the provisioning of your Blueprint.
+
 
 Takeaways
 +++++++++
