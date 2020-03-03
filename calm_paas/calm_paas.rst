@@ -189,6 +189,10 @@ Adding automation tasks
    | PHP_CODE               | Multi line String | Code below |            |      X      |     Simple     | Mandatory |
    +------------------------+-------------------+------------+------------+-------------+----------------+-----------+
    
+   .. code-block:: php
+
+      <?php phpinfo(); ?>
+
    .. figure:: images/calm_paas_13.png
 
 #. Click **Done**
