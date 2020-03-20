@@ -62,6 +62,7 @@ In this exercise you will explore the basics of Nutanix Calm by building and dep
        .. code-block:: bash
    
          #cloud-config
+         hostname: @@{name}@@
          users:
            - name: centos
              sudo: ['ALL=(ALL) NOPASSWD:ALL']
