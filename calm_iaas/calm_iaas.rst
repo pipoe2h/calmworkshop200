@@ -1,7 +1,7 @@
 .. _calm_iaas:
 
 ---------------------------
-Infrastructure as a Servic
+Infrastructure as a Service
 ---------------------------
 
 .. note::
