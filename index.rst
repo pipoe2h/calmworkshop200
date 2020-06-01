@@ -12,6 +12,7 @@
   calm_iaas/calm_iaas
   calm_selfservice/calm_selfservice
   calm_paas/calm_paas
+  calm_cloud_sdk/calm_cloud_sdk
 
 .. _getting_started:
 
